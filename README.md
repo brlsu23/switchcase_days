@@ -1,2 +1,2 @@
 # switchcase_days
-This repository contains beginner-level practice codes  written while learning C basics.
+This repository contains beginner-level practice codes  written while learning C++ basics.
